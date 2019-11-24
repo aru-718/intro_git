@@ -7,3 +7,5 @@ gitの練習やぞ
 .git commit
 
 .git rm
+
+.git status
