@@ -9,3 +9,5 @@ gitの練習やぞ
 .git rm
 
 .git status
+
+.git diff
