@@ -5,3 +5,5 @@ gitの練習やぞ
 .git add
 
 .git commit
+
+.git rm
