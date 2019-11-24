@@ -11,3 +11,5 @@ gitの練習やぞ
 .git status
 
 .git diff
+
+.gitの練習やぞ
