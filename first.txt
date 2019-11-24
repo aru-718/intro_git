@@ -13,3 +13,4 @@ gitの練習やぞ
 .git diff
 
 .gitの練習やぞ
+.atomと連携
